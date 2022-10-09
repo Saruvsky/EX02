@@ -26,7 +26,7 @@ buttonIncrease.addEventListener("click", function onclick(event){
     //fontWeight is an "easier" property to manage because it's value is numeric.
     if(wideText.style.fontWeight > 800){
         buttonIncrease.disabled = true;
-        alert(("Thank you for widening Putin!"));
+        alert(("Wide Putin is indeed thankful..."));
     }
 });
 
